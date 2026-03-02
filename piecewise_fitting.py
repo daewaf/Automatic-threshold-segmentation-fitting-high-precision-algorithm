@@ -285,6 +285,9 @@ if __name__ == '__main__':
     test_slope_calculation()
     # 运行主函数
     main()
+<<<<<<< HEAD
 
 
 #1233333333
+=======
+>>>>>>> 813c4a985ee0a3ab369fdd02db09e2d19e88ca57
